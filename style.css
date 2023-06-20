@@ -2,7 +2,7 @@ body{
     background-color: #263238;
     color: #ddd;
     font-family: courier;
-    display: flex;
+    display: grid;
     align-content: center;
     justify-content: center;
     height: 100vh;
